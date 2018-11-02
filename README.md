@@ -1,6 +1,8 @@
 # 17dushu
 
-一起读书：献给热爱读书的你 [传送门](https://itunes.apple.com/cn/app/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6-%E7%8C%AE%E7%BB%99%E7%83%AD%E7%88%B1%E8%AF%BB%E4%B9%A6%E7%9A%84%E4%BD%A0/id1418858589?l=en&mt=8)
+一起读书：献给热爱读书的你 
+
+[传送门:](https://itunes.apple.com/cn/app/%E4%B8%80%E8%B5%B7%E8%AF%BB%E4%B9%A6-%E7%8C%AE%E7%BB%99%E7%83%AD%E7%88%B1%E8%AF%BB%E4%B9%A6%E7%9A%84%E4%BD%A0/id1418858589?l=en&mt=8)
 
 你还可以通过以下app分享卡找到我们：
 
