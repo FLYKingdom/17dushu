@@ -12,11 +12,11 @@
 
   ### 首页
   
-    #### 在读图书列表
+  #### 在读图书列表
       
-   <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/bookrecord.jpeg' width=180 height=320>  <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/recorddetail.jpeg' width=180 height=320>  <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/focus.jpeg' width=180 height=320>
+   <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/bookrecord.jpeg' width=180 height=320>  <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/recorddetail.jpeg' width=180 height=320> <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/recorddetail1.jpeg' width=180 height=320>  <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/focus.jpeg' width=180 height=320>
       
-    #### 所在小组列表
+  #### 所在小组列表
     
    <img src='https://github.com/FLYKingdom/17dushu/blob/master/snapshot/group.jpeg' width=180 height=320>
   
